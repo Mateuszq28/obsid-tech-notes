@@ -72,7 +72,7 @@ DMRG
 
 
 
-
+Więcej nagrań live'ów powinno być dostępne na twitchu dla premium
 
 
 
