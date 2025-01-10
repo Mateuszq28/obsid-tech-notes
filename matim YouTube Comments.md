@@ -1,0 +1,2 @@
+[[Arcane Algorithm Archive]]
+Greetings from Poland! I've watched this whole live and one another about wheather or not doing PhD. Had a really good time 😍👌 I'm impressed about work. I'm an only-youtube type of person, who in addition, watches videos with a lot of delay, so it makes me sad that your twitch videos can't be watched on youtube. If you want some inspiration, check my Monte Carlo based photon simulation on github Mateuszq28/monte-carlo-sim-python - code is quite dirty, but images work on imagination 🖼️📷
